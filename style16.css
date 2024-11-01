@@ -1,0 +1,28 @@
+body {
+	background-image:url(https://www.bonsfluidos.com.br/wp-content/uploads/2020/04/entre-em-contato-com-a-natureza-atraves-de-imagens-1101297.jpg);
+	background-repeat: no-repeat;
+	color: white;
+	background-size: cover;
+	text-align: center;
+	font-size: 25px;
+
+	/*.box {
+		width: 40px;
+		padding: 20px;
+		border: 2px solid #ccc;
+		border-radius: 14px;
+		background-color: white;
+		box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+		margin: 90px auto;
+		text-align: center;
+	}
+	.input {
+	    width: 40px;
+		padding: 20px;
+		border: 3px;
+		border-radius: 15px;
+		margin: 20px auto;
+		border-color: whitesmoke;
+
+	}*/
+}
